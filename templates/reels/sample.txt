@@ -1,1 +1,4 @@
-Reels Templates
+Hook (0-3 sec)
+Main Content (3-10 sec)
+Value / Entertainment (10-20 sec)
+Call to Action (last 3 sec)
