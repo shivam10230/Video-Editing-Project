@@ -1,4 +1,4 @@
-![Thumbnail](Free Video Editing Kit Thumbnail.png)
+![Thumbnail](thumbnail.png)
 # 🎬 Video Editing Starter Kit for Creators
 
 Welcome to the **Video Editing Starter Kit** – a curated collection of resources, templates, and workflows to help creators edit faster and better.
